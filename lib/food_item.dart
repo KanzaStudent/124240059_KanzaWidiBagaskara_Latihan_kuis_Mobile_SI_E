@@ -24,7 +24,7 @@ class FoodItem {
       imageUrl:
           'https://images.unsplash.com/photo-1512058564366-18510be2db19?w=800&q=80&auto=format&fit=crop',
       quantity: 0,
-      price: 150000,
+      price: 15000,
     ),
     FoodItem(
       name: 'Mie Goreng',
